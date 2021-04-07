@@ -1,0 +1,162 @@
+body {
+    margin: 0; 
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+h1 {
+    margin: 15% auto 0 auto;
+    font-size: 5.625rem;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+  
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+p 
+{
+    line-height: 2;
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+/* div {
+    background-color: #e4f9f5
+} */
+.intro-p
+{
+    color: #40514e;
+    width: 25%;
+    margin: auto;
+    line-height: 2;
+}
+/* .contact
+{
+    width: 25%;
+    line-height: 2;
+} */
+.colorado 
+{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+   
+    
+   
+}
+hr
+{
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+ 
+    
+    
+}
+
+.binary
+{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 50px;
+
+}
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-color: #EAF6F6;
+    
+}
+
+.bottom-container {
+    position: relative;
+    padding: 50px 0 20px;
+    color: #11999E;
+    background-color: #66BFBF;
+    font-family: 'Merriweather', serif;
+   
+}
+.top-cloud
+{
+    position:absolute;
+    top: 150px;
+    right: 450px;
+}
+.bottom-cloud
+{
+    position: absolute; 
+     left: 450px;
+}
+
+.skill-row
+{
+    
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height:2;
+   
+}
+.mason
+{
+    margin-top: 100px;
+}
+.BUTTON_QOY {
+    background: #66BFBF;
+
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #fbffff;
+    font-family: Verdana;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 15px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #66BFBF;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+ }
+ 
+ .BUTTON_QOY:hover {
+    border: solid #337FED 1px;
+    background: #aff0f0;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .pfont {
+     color: white;
+     font-size: .75rem;
+ }
+ .footer-link-anchor
+ {
+     color: #11999e;
+     margin-left: 20px;
+     text-decoration: none;
+     padding: 20px 0;
+     
+     
+     
+ }
+.footer-link-anchor:hover
+{
+    color: #EAF6F6;
+}
